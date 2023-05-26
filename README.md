@@ -1,4 +1,5 @@
-# DARTS (Django Automated Relationship Tracking System)
+# DARTS (Django Automated Relationship Tracking System) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
 
 DARTS (Django Automated Relationship Tracking System) is an open-source CRM (Customer Relationship Management) platform built with Django, designed to automate and streamline relationship tracking processes for businesses. It provides a comprehensive set of features to manage customer interactions, track leads, and enhance sales and marketing efforts.
 
